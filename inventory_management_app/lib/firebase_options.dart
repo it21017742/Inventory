@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'inventory-management-dat-b007d.firebaseapp.com',
     storageBucket: 'inventory-management-dat-b007d.firebasestorage.app',
   );
+
 }
